@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+
+    <string name="hint_editText">Enter search query</string>
+
+    <string name="search_button_text">search</string>
+
+    <string name="no_internet_msg">No Internet!</string>
+</resources>
